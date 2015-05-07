@@ -1,0 +1,23 @@
+{
+  "name": "angular-parse-auth-directive",
+  "version": "0.0.0",
+  "description": "Angular directive which forces the user to login (with Parse.com) to see its content",
+  "main": "dist/angular-parse-auth-directive.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giorgiofellipe/angular-parse-auth-directive.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "parse",
+    "auth",
+    "login"
+  ],
+  "author": "Giorgio Fellipe <giorgiofellipe@gmail.com> (http://giorgiofellipe.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giorgiofellipe/angular-parse-auth-directive/issues"
+  },
+  "homepage": "https://github.com/giorgiofellipe/angular-parse-auth-directive"
+}
