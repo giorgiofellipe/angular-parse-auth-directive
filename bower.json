@@ -6,7 +6,7 @@
     "Giorgio Fellipe <giorgiofellipe@gmail.com>"
   ],
   "description": "Angular directive which forces the user to login (with Parse.com) to see its content",
-  "main": "dist/angular-parse-auth-directive.js",
+  "main": "angular-parse-auth-directive.js",
   "keywords": [
     "angular",
     "directive",
