@@ -1,6 +1,6 @@
 {
   "name": "angular-parse-auth-directive",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Angular directive which forces the user to login (with Parse.com) to see its content",
   "main": "angular-parse-auth-directive.js",
   "repository": {
