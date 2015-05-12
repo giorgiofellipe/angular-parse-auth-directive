@@ -16,6 +16,11 @@
               $scope.authenticated = false;
               $scope.currentUser = ParseAuth.currentUser;
 
+              //There will be need to get some attributes from the element such as
+              //login view path and register view path
+              // $attrs.loginViewPath
+              // $attrs.registerViewPath
+
               $scope.showContent = function() {
                   $scope.$apply(function(){$scope.authenticated = true;});
               }
@@ -24,7 +29,6 @@
                   $scope.authenticated = true;
               }
           },
-          templateUrl: 'views/login.html',
           replace: true
         }
       });
